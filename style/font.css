@@ -1,16 +1,16 @@
 @font-face {
     font-family: title;
-    src: url("fonts/Cookie-Regular.ttf");
+    src: url("../files/fonts/Cookie-Regular.ttf");
 }
 @font-face {
     font-family: subtitleReg;
-    src: url("fonts/AmaticSC-Regular.ttf");
+    src: url("../files/fonts/AmaticSC-Regular.ttf");
 }
 @font-face {
     font-family: subtitleBold;
-    src: url("fonts/AmaticSC-Bold.ttf");
+    src: url("../files/fonts/AmaticSC-Bold.ttf");
 }
 @font-face {
     font-family: paragraphe;
-    src: url("fonts/Roboto-Regular.ttf");
+    src: url("../files/fonts/Roboto-Regular.ttf");
 }
